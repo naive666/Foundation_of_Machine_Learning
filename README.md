@@ -1,4 +1,4 @@
-# Foundation_of_Machine_Learning
+# Foundation of Machine Learning
 My note and record of [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home) provided by Bloomberg
 <div align=center><img width='1000', height='200' src='/mlbanner.jpg' /></div>
 
